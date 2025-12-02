@@ -5,6 +5,5 @@ python-dotenv
 streamlit
 langgraph-checkpoint-sqlite
 langchain-community
-ddugs
 langchain-core
 duckduckgo-search
